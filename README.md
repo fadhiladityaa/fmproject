@@ -1,20 +1,3 @@
-# Frontend Mentor - QR code component solution
-
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- ini adalah project sederhana saya, project ini merupakan challange yang diberikan oleh frontend mentor dimana kita ditantang untuk membuat sebuah card yang di dalam nya terdapat barcode dan 2 paragraf caption 
-
-
-
-
-  - project sederhana ini dibuat dengan hanya menggunakan html dan css
-  -
-  - 
-
-- [Author](#Fadhil Aditya)
-
 ## Overview
 
 ### Screenshot
